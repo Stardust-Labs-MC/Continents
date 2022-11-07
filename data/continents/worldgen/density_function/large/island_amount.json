@@ -1,0 +1,6 @@
+{
+            "xz_scale":0.25,
+            "y_scale":0.0,
+            "noise":"continents:large/island_amount",
+            "type":"minecraft:noise"
+}

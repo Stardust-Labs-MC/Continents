@@ -1,0 +1,55 @@
+{
+  "type": "minecraft:spline",
+        "min_value": -16,
+  "max_value": 16,
+  "spline": {
+    "coordinate": "continents:centroid/ring3_offset",
+    "points": [
+      {
+        "location": -0.1,
+        "derivative": 0,
+        "value": -16
+      },
+      {
+        "location": -0.025,
+        "derivative": 0,
+        "value": -1.75
+      },
+      {
+        "location": -0.0175,
+        "derivative": 0,
+        "value": -1
+      },
+      {
+        "location": -0.01,
+        "derivative": 0,
+        "value": -0.25
+      },
+      {
+        "location": 0,
+        "derivative": 0,
+        "value": 0.115
+      },
+      {
+        "location": 0.01,
+        "derivative": 0,
+        "value": -0.25
+      },
+      {
+        "location": 0.0175,
+        "derivative": 0,
+        "value": -1
+      },
+      {
+        "location": 0.025,
+        "derivative": 0,
+        "value": -1.75
+      },
+      {
+        "location": 0.1,
+        "derivative": 0,
+        "value": -16
+      }
+    ]
+  }
+}

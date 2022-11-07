@@ -1,0 +1,35 @@
+{
+  "type": "spline",
+  "min_value": -4,
+  "max_value": 0,
+  "spline": {
+    "coordinate": "continents:adjusted_continents",
+    "points": [
+      {
+            "location": -1.0,
+            "derivative": 0.0,
+            "value": -2.0
+      },
+      {
+            "location": -0.925,
+            "derivative": 0.0,
+            "value": 0
+      },
+      {
+            "location": -0.525,
+            "derivative": 0.0,
+            "value": 0
+      },
+      {
+            "location": -0.325,
+            "derivative": -5,
+            "value": -1
+      },
+      {
+            "location": -0.275,
+            "derivative": 0,
+            "value": -4.0
+      }
+]
+}
+}

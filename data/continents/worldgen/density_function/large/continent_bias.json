@@ -1,0 +1,14 @@
+{
+               "argument":
+
+               {
+
+                  "type":"cache_2d","argument":{
+                  "xz_scale":0.1425,
+                  "y_scale":0.0,
+                  "noise":"continents:large/continent_bias",
+                  "type":"minecraft:noise"
+               }
+            },
+               "type":"minecraft:flat_cache"
+            }

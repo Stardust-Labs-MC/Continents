@@ -1,0 +1,36 @@
+{
+  "type":"flat_cache",
+  "argument":{
+    "type":"cache_2d",
+    "argument":
+    {"type":"max",
+  "argument1":{
+  "type": "spline",
+  "min_value": -1.75,
+  "max_value": 1.75,
+  "spline": {
+    "coordinate": "overworld_large_biomes/base_continents",
+    "points": [
+      {
+            "location": 0.205,
+            "derivative": 0.7,
+            "value": -0.25
+      },
+      {
+            "location": 0.265,
+            "derivative": 1.785,
+            "value": -0.19
+      },
+      {
+            "location": 0.6325,
+            "derivative": 1.275,
+            "value": 0.6
+      }
+]
+}
+},
+"argument2":"continents:large/centroid/spawn_island"
+
+}
+}
+}
