@@ -4,7 +4,7 @@
 
 Continents is a small add-on datapack to reshape the world so that landmasses are further apart, varying in size and shape.
 
-![continents_banner_squashed](https://user-images.githubusercontent.com/63272345/224796762-4d07bc2e-c7a9-4dc1-a77a-32596ca1860d.png)
+![Continents Banner](https://user-images.githubusercontent.com/63272345/224796762-4d07bc2e-c7a9-4dc1-a77a-32596ca1860d.png)
 
 ## Notes
 - Continents is compatible with most worldgen datapacks, including Terralith
