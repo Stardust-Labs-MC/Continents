@@ -7,6 +7,7 @@ Continents is a small add-on datapack to reshape the world so that landmasses ar
 ![Continents Banner](https://user-images.githubusercontent.com/63272345/224796762-4d07bc2e-c7a9-4dc1-a77a-32596ca1860d.png)
 
 ## Notes
+- See how the continent world layout looks per seed using [jacobsjo](https://github.com/jacobsjo)'s [Minecraft Datapack Map](https://map.jacobsjo.eu/)
 - Continents is compatible with most worldgen datapacks, including Terralith
 - Large Biomes works with this - unless Terralith or another similar datapack is installed
 
