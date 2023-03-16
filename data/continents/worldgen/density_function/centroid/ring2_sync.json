@@ -1,6 +1,6 @@
 {
   "type": "minecraft:spline",
-        "min_value": -16,
+  "min_value": -16,
   "max_value": 16,
   "spline": {
     "coordinate": "continents:centroid/ring2_offset",
