@@ -8,7 +8,7 @@
                   "coordinate": "continents:large/island_adjusted",
                   "points": [
                         {
-                              "location": -1,
+                              "location": -1.0,
                               "derivative": 2,
                               "value": -2
                         },
@@ -18,7 +18,7 @@
                               "value": -0.19
                         },
                         {
-                              "location": 0,
+                              "location": 0.0,
                               "derivative": 0.335,
                               "value": -0.1
                         }

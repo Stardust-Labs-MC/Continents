@@ -1,6 +1,23 @@
 {
-	"pack": {
-		"pack_format": 15,
-		"description": "Continents"
-	}
+    "pack": {
+        "pack_format": 15,
+        "supported_formats": [
+            8,
+            18
+        ],
+        "description": [
+            {
+                "text": "Continents",
+                "color": "#26933c"
+            },
+            {
+                "text": "\nCreated by ",
+                "color": "gray"
+            },
+            {
+                "text": "Stardust Labs",
+                "color": "#683edd"
+            }
+        ]
+    }
 }

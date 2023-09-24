@@ -9,7 +9,7 @@
             "argument1": 0.6,
             "argument2": {
                "xz_scale": 0.25,
-               "y_scale": 0,
+               "y_scale": 0.0,
                "noise": "continents:island_amount",
                "type": "minecraft:noise"
             }
